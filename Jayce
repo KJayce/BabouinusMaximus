@@ -10,16 +10,16 @@
 
 
       </style>
-<body>
+<body<>
 
-  <h1> <center>BeCode, un environnement optimisé pour l'apprentissage.</center></h1>
-  <h2>Qu'est-ce qu'un environnement de travail optimisé pour l'apprentissage ?</h2>
+  <h1 style="background-color:#C977B0"> <center>BeCode, un environnement optimisé pour l'apprentissage.</center></h1>
+  <h2 style="background-color:#B26C6C">Qu'est-ce qu'un environnement de travail optimisé pour l'apprentissage ?</h2>
 <p align="justify"> Il s'agit ici d'un ensemble regroupant des méthodes d'apprentissages innovantes,
    de la mise à disposition de la partie logistique (matériel informatique, le local,...) et de l'aide
   administrative. L'apprenant peut dès lors se concentrer sur sa formation sans être entravé par
   e manque de matèriel ou les nombreuses démarches administratives. </p>
 
-  <h2>Comment optimiser son espace de travail pour l'apprentissage ?</h2>
+  <h2 style="background-color:#B26C6C">Comment optimiser son espace de travail pour l'apprentissage ?</h2>
 
   <h3>Index.</h3>
 
@@ -127,7 +127,7 @@ votre premier réflexe devrait être de vous renseigner sur sa fonction.  </p>
 
   </ul>
 
-  <h2> En conclusion </h2>
+  <h2 style="background-color:#B26C6C"> En conclusion </h2>
 
   <ul>
     <li>Testez par vou-même</li>
