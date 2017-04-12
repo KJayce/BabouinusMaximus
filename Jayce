@@ -5,36 +5,18 @@
     <title> BeCode </title>
 
       </head>
-      <style>
-      img {
-            cursor: pointer;
-        transition: -webkit-transform 0.1s ease
-        }
-    img:focus {
-        -webkit-transform: scale(2);
-        -ms-transform: scale(2);
-    }
-    <script>
-    document.addEventListener('DOMContentLoaded', function(){
-        var imgs = document.querySelectorAll('img');
-        Array.prototype.forEach.call(imgs, function(el, i) {
-            if (el.tabIndex <= 0) el.tabIndex = 10000;
-        });
-    });
-    </script>
+      <style></style>
+      <link href="/style.css" type="text/css" rel="stylesheet">
+<body>
 
-
-      </style>
-<body style=background-color:#B7A5A5>
-
-  <h1 style="background-color:#C977B0"> <center>BeCode, un environnement optimisé pour l'apprentissage.</center></h1>
-  <h2 style="background-color:#B26C6C">Qu'est-ce qu'un environnement de travail optimisé pour l'apprentissage ?</h2>
-<p align="justify"> Il s'agit ici d'un ensemble regroupant des méthodes d'apprentissages innovantes,
+  <h1> <center>BeCode, un environnement optimisé pour l'apprentissage.</center></h1>
+  <h2>Qu'est-ce qu'un environnement de travail optimisé pour l'apprentissage ?</h2>
+<p> Il s'agit ici d'un ensemble regroupant des méthodes d'apprentissages innovantes,
    de la mise à disposition de la partie logistique (matériel informatique, le local,...) et de l'aide
   administrative. L'apprenant peut dès lors se concentrer sur sa formation sans être entravé par
   e manque de matèriel ou les nombreuses démarches administratives. </p>
 
-  <h2 style="background-color:#B26C6C">Comment optimiser son espace de travail pour l'apprentissage ?</h2>
+  <h2>Comment optimiser son espace de travail pour l'apprentissage ?</h2>
 
   <h3>Index.</h3>
 
@@ -61,7 +43,7 @@
 
   <h4>Nettoyer son espace de travail régulièrement.</h4>
 
-  <p align="justify">Un espace de travail se doit d'être débarrassé tout
+  <p>Un espace de travail se doit d'être débarrassé tout
   les jours après le shift. Un espace encombré
   <b>perturbe l'attention.</b>Faites en sorte qu’il y ait
   une place pour chaque chose,histoire de ne pas chercher
@@ -70,11 +52,12 @@
 <img src="/home/user/Downloads/Link to poster-mess-50x40.jpg" width="300" height="300 alt="Le Chat> <br>
 
    Voici un lien qui explique comment
-   <a href="http://www.jobat.be/fr/articles/bien-organiser-son-espace-de-travail-6-tuyaux/" target="_blank"> nettoyer son environnement. </a></p>
+   <a href="http://www.jobat.be/fr/articles/bien-organiser-son-espace-de-travail-6-tuyaux/" target="_blank">
+     nettoyer son environnement. </a></p>
 
    <h4> Le respect d'autrui.</h4>
 
-   <p align="justify">Le travail d'équipe est devenu essentiel dans le dévloppement web.
+   <p>Le travail d'équipe est devenu essentiel dans le dévloppement web.
       Il est donc primordial de faire preuve de <i>savoir vivre</i> et <i>d'ouverture
        d'esprit </i>. Afin de pouvoir apprendre à travailler avec n'importe quel
        collaborateur, les apprenants changeront continuellement d'équipe au fur
@@ -109,7 +92,7 @@
 
 <h4> Être curieux.</h4>
 
-  <p align="justify">Pour être codeur, il faut être curieux. Les languages
+  <p >Pour être codeur, il faut être curieux. Les languages
 évoluent en permanence et toute votre vie vous devrez réapprendre et
 vous former...Si vous ne comprenez pas cette ligne de code,
 
@@ -122,7 +105,7 @@ votre premier réflexe devrait être de vous renseigner sur sa fonction.  </p>
 
 <h4>L'assiduité.</h4>
 
-  <p align="justify"> Dans le but d'acquérir un rythme d'apprentissage constant et sain, chacun se
+  <p> Dans le but d'acquérir un rythme d'apprentissage constant et sain, chacun se
    doit de respecter les délais imposés non seulement par les formateurs mais
    également par soi-même. Ainsi on adopte une dynamique de travail productive,
    qui nous permet d'évolué non seulement dans notre domaine mais également en
@@ -130,7 +113,7 @@ votre premier réflexe devrait être de vous renseigner sur sa fonction.  </p>
 
    <h4> La persévérance.</h4>
 
-   <p align="justify">Quand on veut, on peut. On ne lâche pas le clavier tant
+   <p>Quand on veut, on peut. On ne lâche pas le clavier tant
      qu'on n'a pas trouvé la solution. Bien sûr, il faut être un minimum
      indulgent envers soit-même et se reposer dans le but d'être au taquet à son
      retour au clavier.</p>
@@ -145,7 +128,7 @@ votre premier réflexe devrait être de vous renseigner sur sa fonction.  </p>
 
   </ul>
 
-  <h2 style="background-color:#B26C6C"> En conclusion </h2>
+  <h2> En conclusion </h2>
 
   <ul>
     <li>Testez par vou-même</li>
