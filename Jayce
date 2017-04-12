@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="Home/Documents/Github/style.css">
 <meta charset="utf-8">
     <title> BeCode </title>
 
       </head>
-      <style></style>
-      <link href="/style.css" type="text/css" rel="stylesheet">
+
+
 <body>
 
   <h1> <center>BeCode, un environnement optimisé pour l'apprentissage.</center></h1>
