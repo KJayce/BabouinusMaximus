@@ -1,6 +1,6 @@
-[![Becode](http://register.becode.org/images/logo_footer.png "Becode")](http://becode.org/ "www.Becode.or")
+[![Becode](http://register.becode.org/images/logo_footer.png "Becode")](http://becode.org/ "www.Becode.org")
 > Si vous n'avez jamais échoué, c'est que vous n'avez jamais rien tenté.  
-> *Un formateur de Becode* 
+> *Un formateur de Becode*
 
 # BeCode, un environnement optimisé pour l'apprentissage.
 
@@ -16,11 +16,11 @@ Il s'agit ici d'un ensemble regroupant des méthodes d'apprentissages innovantes
     1. Nettoyer son espace de travail régulièrement.
     2. Le respect d'autrui.
 2. **Les outils.**
-    1. Le matériel *(hardware)*. 
+    1. Le matériel *(hardware)*.
     2. Les softwares.
-3. **L'auto-discipline.** 
+3. **L'auto-discipline.**
     1. Être curieux.
-    2. L'assuidité. 
+    2. L'assuidité.
     3. La persévérance.
 
 ### L'environnement de travail.
@@ -37,15 +37,15 @@ Le travail d'équipe est devenu essentiel dans le dévloppement web. Il est donc
 ### Les outils.
 
 #### Le hardware.
-Dès le début de votre formation ous receverez le matériel suivant : 
+Dès le début de votre formation ous receverez le matériel suivant :
 * Un laptop
-    * Un i7, 16g de ram. *(Non, on rigole).* 
+    * Un i7, 16g de ram. *(Non, on rigole).*
 * Un casque audio
     * Avec sytème surrond 360° *(Non là aussi on rigole.).*
-* Une souris avec **cable extensible** ! 
+* Une souris avec **cable extensible** !
 * Et peut être bientôt une clé usb.
 
-#### Les Softwares. 
+#### Les Softwares.
 - [ ] Windows.
 - [x] Linux.
 - [x] GitHub.
@@ -64,11 +64,11 @@ alert("Hello!");</script>
 
  votre premier réflexe devrait être de vous renseigner sur sa fonction.  
 
-#### L'assiduité. 
+#### L'assiduité.
 Dans le but d'acquérir un rythme d'apprentissage constant et sain, chacun se doit de respecter les délais imposés non seulement par les formateurs mais également par soi-même. Ainsi on adopte une dynamique de travail productive, qui nous permet d'évolué non seulement dans notre domaine mais également en tant qu'individu.
 
 
-#### La persévérance. 
+#### La persévérance.
 Quand on veut, on peut. On ne lâche pas le clavier tant qu'on n'a pas trouvé la solution. Bien sûr, il faut être un minimum indulgent envers soit-même et se reposer dans le but d'être au taquet à son retour au clavier.
 
 ### Voici quelques liens qui vous permettront de vous améliorer :
@@ -77,7 +77,7 @@ Quand on veut, on peut. On ne lâche pas le clavier tant qu'on n'a pas trouvé l
 
 [Openclassroom](https://openclassrooms.com/courses)
 
-[Liste complète des balises HTML](http://www.codeshttp.com/baliseh.htm) 
+[Liste complète des balises HTML](http://www.codeshttp.com/baliseh.htm)
 
 ## En conclusion
 - [x] Testez par vous-même

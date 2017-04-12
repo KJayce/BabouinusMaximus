@@ -6,11 +6,26 @@
 
       </head>
       <style>
-
+      img {
+            cursor: pointer;
+        transition: -webkit-transform 0.1s ease
+        }
+    img:focus {
+        -webkit-transform: scale(2);
+        -ms-transform: scale(2);
+    }
+    <script>
+    document.addEventListener('DOMContentLoaded', function(){
+        var imgs = document.querySelectorAll('img');
+        Array.prototype.forEach.call(imgs, function(el, i) {
+            if (el.tabIndex <= 0) el.tabIndex = 10000;
+        });
+    });
+    </script>
 
 
       </style>
-<body<>
+<body style=background-color:#B7A5A5>
 
   <h1 style="background-color:#C977B0"> <center>BeCode, un environnement optimisé pour l'apprentissage.</center></h1>
   <h2 style="background-color:#B26C6C">Qu'est-ce qu'un environnement de travail optimisé pour l'apprentissage ?</h2>
@@ -51,7 +66,7 @@
   <b>perturbe l'attention.</b>Faites en sorte qu’il y ait
   une place pour chaque chose,histoire de ne pas chercher
   pendant des heures cette clé USB dont vous avez besoin. <br>
-  
+
 <img src="/home/user/Downloads/Link to poster-mess-50x40.jpg" width="300" height="300 alt="Le Chat> <br>
 
    Voici un lien qui explique comment
