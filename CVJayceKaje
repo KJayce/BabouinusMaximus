@@ -11,14 +11,16 @@
     <div><h1>BANZIZIKI KAJE JAYCE MARCEL</h1>
     <h2>Rue de la brasserie 56 boite 021,<br> 6061 Charleroi 0489/801/566 <br>
       jaycekaje@gmail.com</h2></div>
-    <h3>Curriculum Vitae</h3>
+      <h3 id="CVtitle">Curriculum Vitae</h3>
+
 
     <h4>Formations</h4>
   <p>
       <ul>
       <li>2006 - 2013: <br>
     Certificats d'études secondaires supérieur
-    Institut de la Sainte-Famille d'Helmet</li>
+    Institut de la Sainte-Famille d'Helmet
+      </li>
       </ul>
 </p>
     <h4>Expériences Professionnelles</h4>
@@ -44,7 +46,7 @@
 
 
     <h4>Compétences</h4>
-  
+
     <p>
     <ul>
     <li>MS Word</li>
