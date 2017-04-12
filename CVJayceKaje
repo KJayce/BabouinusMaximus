@@ -8,10 +8,10 @@
     <title></title>
   </head>
   <body>
-    <div><h1>BANZIZIKI KAJE JAYCE MARCEL</h1>
-    <h2>Rue de la brasserie 56 boite 021,<br> 6061 Charleroi 0489/801/566 <br>
+    <div><h1 align="center">BANZIZIKI KAJE JAYCE MARCEL</h1>
+    <h2 align="left">Rue de la brasserie 56 boite 021,<br> 6061 Charleroi 0489/801/566 <br>
       jaycekaje@gmail.com</h2></div>
-      <h3 id="CVtitle">Curriculum Vitae</h3>
+      <h3 id="CV" align="center">Curriculum Vitae</h3>
 
 
     <h4>Formations</h4>
