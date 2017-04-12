@@ -2,6 +2,10 @@ body {
   color: saddlebrown;
 }
 
+h3 {
+
+
+}
 h1, h2, h3, h4 {
   text-align: center;
 
@@ -12,10 +16,16 @@ b {
 }
 
 div {
+    align-self: center;
+    border-radius: 25px;
     background-color:;
     width: 320px;
     padding: 10px;
     border: 5px solid gray;
     margin: 0;
     box-shadow: 10px 10px 5px #888888;
+}
+
+p {
+  text-align: center;
 }
