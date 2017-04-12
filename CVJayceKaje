@@ -8,6 +8,64 @@
     <title></title>
   </head>
   <body>
+    <div><h1>BANZIZIKI KAJE JAYCE MARCEL</h1>
+    <h2>Rue de la brasserie 56 boite 021,<br> 6061 Charleroi 0489/801/566 <br>
+      jaycekaje@gmail.com</h2></div>
+    <h3>Curriculum Vitae</h3>
+    <h4>Formations</h4>
+  <p>
+      <ul>
+      <li>2006 - 2013: <br>
+    Certificats d'études secondaires supérieur
+    Institut de la Sainte-Famille d'Helmet</li>
+      </ul>
+</p>
+    <h4>Expériences Professionnelles</h4>
+  <p>
+    <ul>
+    <p><li>Décembre 2011 - Janvier 2012:<br>
+    Ouvrier de la voie Publique
+    Commune d'Evere </li></p>
 
+    <p><li>Juillet 2012 - Septembre 2012
+    Réassortissement et service clientèle
+    Delhaize Group Kraainem </li></p>
+  </ul>
+</p>
+    <h4>Langues</h4>
+    <p>
+    <ul>
+      <li>Français: Langue Maternelle</li>
+      <li>Anglais: Bilingue</li>
+      <li>Néerlandais: Notions</li>
+    </ul>
+  </p>
+
+
+    <h4>Compétences</h4>
+    <h5>Outils Informatique:</h5>
+    <p>
+    <ul>
+    <li>MS Word</li>
+     <li>MS Excel</li>
+     <li>Web(Html/CSS, PHP, JavaScript)</li>
+     <li>Messageries</li>
+   </ul>
+ </p>
+
+    <h4>Atouts</h4>
+    <p>
+    <ul>
+    <li>Esprit d'équipe</li>
+
+    <li>Aime l'organisation</li>
+
+    <li>Respectueux</li>
+
+    <li>Rigoureux dans ses taches</li>
+
+    <li>Sociable</li>
+  </ul>
+</p>
   </body>
 </html>
