@@ -16,6 +16,15 @@ body {
     box-shadow: 10px 10px 5px #800020;
 }
 
+#panda {
+  position:absolute;
+  border-radius: 25px;
+  top: 8px;
+  right: 25px;
+
+
+
+}
 p {
   postion: absolute;
   right: 0px;

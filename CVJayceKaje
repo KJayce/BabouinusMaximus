@@ -10,7 +10,7 @@
   <body>
     <div id="front"><h1 align="center">BANZIZIKI KAJE JAYCE MARCEL</h1>
     <h2 align="left">Rue de la brasserie 56 boite 021,<br> 6061 Charleroi 0489/801/566 <br>
-      <img aling="right" src="/home/user/Documents/Github/poster-mess-50x40.jpg" width="150">
+      <img id="Panda" src="/home/user/Documents/Github/poster-mess-50x40.jpg" width="150">
       jaycekaje@gmail.com</h2></div></div>
       <h3 id="CV" align="center">Curriculum Vitae</h3>
 
@@ -31,7 +31,7 @@
       <li>
         Décembre 2011 - Janvier 2012:
     Ouvrier de la voie Publique
-    Commune d'Evere 
+    Commune d'Evere
       </li>
     </p>
 
