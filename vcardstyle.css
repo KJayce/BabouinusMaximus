@@ -1,20 +1,20 @@
-#Limit
-   {
-   background-color: #F00;
-   width: 400px;
-   margin-right: auto;
-   margin-left: auto;
-   }
+#Limit {
+    background-color: #F00;
+    width: 400px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
 
 #pic {
-    content: "";
-      background: transparent url(/home/user/Documents/Github/poster-mess-50x40.jpg) scroll no-repeat 0 0;
-      background-size: cover;
-      width: 150px;
-      height: 180px;
-      position: absolute;
-      top:30px;
-      display: block;
-      left: 67em;
-      border-radius: 15px;
-   }
+    background: transparent url(/home/user/Documents/Github/poster-mess-50x40.jpg) scroll no-repeat 0 0;
+    background-size: cover;
+    width: auto;
+    margin: auto;
+    padding: auto;
+    height: auto;
+    position: absolute;
+    top: auto;
+    display: block;
+    left: auto;
+    border-radius: 15px;
+}

@@ -1,15 +1,19 @@
 body {
-  width: 400px;
-  margin-right: auto;
-  margin-left: auto;
-  color: saddlebrown;
-  background-color:oldlace;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    color: saddlebrown;
+    background-color: oldlace;
+}
+
+#bodmod {
+    position: absolute;
 }
 
 #front {
     top: 0px;
     border-radius: 35px;
-    background-color:blanchedalmond;
+    background-color: blanchedalmond;
     width: auto;
     padding: 10px;
     border: 5px solid #800020;
@@ -19,51 +23,47 @@ body {
 }
 
 #panda {
-
-      content: "";
-      background: transparent url(/home/user/Documents/Github/poster-mess-50x40.jpg) scroll no-repeat 0 0;
-      background-size: cover;
-      width: 150px;
-      height: 180px;
-      position: absolute;
-      top:30px;
-      display: block;
-      left: 67em;
-      border-radius: 15px;
+    width: 150px;
+    height: 15px;
+    position: absolute;
+    top: auto;
+    display: inline-block;
+    left: auto;
+    border-radius: 15px;
+    float: right;
 }
 
 li {
-line-height: 60px;
+    line-height: 60px;
 }
 
 p {
-  position: absolute;
-  right: 15px;
-  width: auto;
-  padding: 25px;
-  line-height: 3px;
-  margin-left: 15%;
-
+    position: absolute;
+    right: 15px;
+    width: auto;
+    padding: 25px;
+    line-height: 3px;
+    margin-left: 15%;
 }
+
 #CV {
-  border-radius: 12.5px;
-  width: 160px;
-  padding: 5px;
-  margin: auto;
-  border: 2.5px solid #800020;
-  box-shadow: 5px 5px 2.5px #800020;
+    border-radius: 12.5px;
+    width: 160px;
+    padding: 5px;
+    margin: auto;
+    border: 2.5px solid #800020;
+    box-shadow: 5px 5px 2.5px #800020;
 }
-
 
 .H2O {
-  line-height: 16px;
-  margin: 0px;
-  font-size: 150%;
-  position: absolute;
-  left:0px;
-  padding: 10px;
-  border: 2px solid #800020;
-  border-radius: 6.25px;
-  box-shadow: 2.5px 2.5px 1.25px #800020;
-  width:auto;
+    line-height: 16px;
+    margin: 0px;
+    font-size: 150%;
+    position: absolute;
+    left: 0px;
+    padding: 10px;
+    border: 2px solid #800020;
+    border-radius: 6.25px;
+    box-shadow: 2.5px 2.5px 1.25px #800020;
+    width: auto;
 }
