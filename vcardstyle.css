@@ -1,11 +1,12 @@
 body {
-    width: 400px;
+    width: 85em;
     margin-right: auto;
     margin-left: auto;
     color: saddlebrown;
     background-color: oldlace;
-    top: 400px;
     border: 15px solid rebeccapurple;
+    height: 700px;
+    max-height: 700px;
 }
 
 ul {
@@ -15,6 +16,34 @@ ul {
 img {
     width: auto;
     height: auto;
-    max-height: 100px;
-    max-width: 100px;
+    max-height: 200px;
+    max-width: 200px;
+}
+
+#li1 {
+    width: 175px;
+    height: 175px;
+    background-color: red;
+}
+
+#li2 {
+    width: 175px;
+    height: 175px;
+    background-color: green;
+}
+
+#li3 {
+    width: 175px;
+    height: 175px;
+    background-color: blue;
+}
+
+#li4 {
+    width: 175px;
+    height: 175px;
+    background-color: yellow;
+}
+
+#listmenu {
+    position: relative;
 }
