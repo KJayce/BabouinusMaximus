@@ -3,7 +3,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     color: saddlebrown;
-    background-color: oldlace;
+    background-color: lightgoldenrodyellow;
     border: 15px solid rebeccapurple;
     height: 700px;
     max-height: 700px;
@@ -14,8 +14,8 @@ ul {
 }
 
 img {
-    width: auto;
-    height: auto;
+    width: 175px;
+    height: 175px;
     max-height: 200px;
     max-width: 200px;
 }
@@ -24,22 +24,6 @@ img {
     width: 175px;
     height: 175px;
     position: relative;
-}
-
-#li1 {
-    background-color: red;
-}
-
-#li2 {
-    background-color: green;
-}
-
-#li3 {
-    background-color: blue;
-}
-
-#li4 {
-    background-color: yellow;
 }
 
 #listmenu {
