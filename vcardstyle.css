@@ -5,16 +5,4 @@
     margin-left: 15px;
 }
 
-#pic {
-    background: transparent url(/home/user/Documents/Github/poster-mess-50x40.jpg) scroll no-repeat 0 0;
-    background-size: cover;
-    width: auto;
-    margin: auto;
-    padding: auto;
-    height: auto;
-    position: absolute;
-    top: auto;
-    display: block;
-    left: auto;
-    border-radius: 15px;
-}
+#pic {}
