@@ -20,30 +20,29 @@ img {
     max-width: 200px;
 }
 
-#li1 {
+.lit {
     width: 175px;
     height: 175px;
+    position: relative;
+}
+
+#li1 {
     background-color: red;
 }
 
 #li2 {
-    width: 175px;
-    height: 175px;
     background-color: green;
 }
 
 #li3 {
-    width: 175px;
-    height: 175px;
     background-color: blue;
 }
 
 #li4 {
-    width: 175px;
-    height: 175px;
     background-color: yellow;
 }
 
 #listmenu {
     position: relative;
+    left: -35px;
 }
