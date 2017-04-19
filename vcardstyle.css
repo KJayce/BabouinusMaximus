@@ -22,6 +22,7 @@ img {
 }
 
 .lit {
+    bottom: 200px;
     width: 175px;
     height: 175px;
     position: relative;
@@ -33,9 +34,17 @@ img {
 }
 
 #infos {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 525px;
     position: relative;
     width: 1155px;
     height: 150px;
     border: 15px solid darkmagenta;
     left: 180px;
+    min-height: 150px;
+    min-width: 1155px;
+    max-height: 150px;
+    max-width: 1155px;
+    overflow: scroll;
 }
