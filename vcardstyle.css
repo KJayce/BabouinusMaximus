@@ -7,3 +7,14 @@ body {
     top: 400px;
     border: 15px solid rebeccapurple;
 }
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+}
